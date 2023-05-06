@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity3d and C#
 - 💞️ I’m looking to collaborate on game development
-- 📫 You can reach me on my email artchel06studios@gmail.com.
+- 📫 You can reach me on my email artchel06studios@yahoo.com.
 
 <!---
 tumaogames/tumaogames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
